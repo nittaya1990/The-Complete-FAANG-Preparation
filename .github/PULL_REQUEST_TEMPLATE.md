@@ -3,16 +3,14 @@
 - [ ] NO
 
 ## Project URL
-- 
+- []()
 
 ## What is the current behavior?
 - Issue Number: #...
 
 ## Category
-- [ ] 𝑨𝑺𝑲 𝒀𝒐𝒖𝒓 𝑫𝒐𝒖𝒃𝒕𝒔
 - [ ] 𝑴𝒊𝒔𝒄𝒆𝒍𝒍𝒂𝒏𝒆𝒐𝒖𝒔 𝑺𝒕𝒖𝒇𝒇.
-- [ ] 𝑫𝑺𝑨
-- [ ] 𝑪𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈
+- [ ] 𝑫𝑺𝑨 + CP
 - [ ] 𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒖𝒃𝒋𝒆𝒄𝒕
 - [ ] 𝑳𝒐𝒘 𝑳𝒆𝒗𝒆𝒍 𝑫𝒆𝒔𝒊𝒈𝒏
 - [ ] 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
@@ -25,7 +23,8 @@
 ## **Screenshots** 
 - (Add Runnig Work Demo Image)
 
-## Checklist
+## Checklist ✅
+- [ ] I've read the instructions on the README file before submitting my application.
 - [ ] I've read the [Contributing Guidelines](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/CONTRIBUTING.md).
 - [ ] I've checked the issue list before deciding what to submit.
 - [ ] I've follow [Tree of Index](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation#tree-of-index).
